@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Dan DeMeyere"]
   s.email       = ["dan@thredup.com"]
   s.homepage    = ""
-  s.summary     = %q{Generate Office Farva Quotes}
+  s.summary     = %q{Generate Super Trooper Quotes}
   s.description = %q{Just about everything.}
 
   s.rubyforge_project = "farva"

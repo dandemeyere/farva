@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    farva (0.5.2)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  farva!
