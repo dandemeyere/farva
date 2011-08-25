@@ -38,5 +38,26 @@ class TrooperFoster
                    "Foster: Meow, (7) I'm gonna have to give you a ticket on this one. No buts meow. (8) It's the law. \r" +
                    "Foster: Not so funny meow, (9) is it? \r " +
                    "Foster: [Foster gets up to leave, but Mac shakes his hands at him, indicating only nine meows] Meow! (10)"
+  QUOTE_LIBRARY << "Foster: Okie silly dilly dokie-o. I'm an idiot.  \r" +
+                   "Mac: That's true."
+  QUOTE_LIBRARY << "Foster: You crapped on my heart.  \r"
+  QUOTE_LIBRARY << "[Ursula meets Foster at a restaurant. Ursula is dressed as a biker, Foster is dressed as a cyclist]   \r" +
+                   "Foster: Ah, biker. I'm such an idiot. "
+  QUOTE_LIBRARY << "Ursula: [talking into voice filter] Freeze motherfucker.  \r" +
+                   "Foster: Oh, god, please don't shoot me. I'm naked.  \r" +
+                   "Ursula: Drop your coat and grab your toes.   \r" +
+                   "Ursula: [talking into voice filter] Freeze motherfucker.  \r" +
+                   "Foster: What?   \r" +
+                   "Ursula: I'm gonna show you where the wild goos goes.   \r" +
+                   "Foster: Uh, this isn't happening. I'm a police officer. Ursula, help.   \r" +
+                   "Ursula: Baby, I'm gonna butter your bread.  \r" +
+                   "[Foster turns, sees Ursula is "holding him up"]   \r" +
+                   "Ursula: [still talking into the voice filter] You don't have these at your station? \r" +
+                   "Foster: [grabs the voice filtrator, and speaks into it] I don't suppose you have a fresh pair of underwear I can borrow?   \r" +
+                   "Ursula: I'm not sure you could fit into my panties.  \r" +
+  QUOTE_LIBRARY << "Foster: [explaining his low number of citations issued] I can't make them speed. \r" +
+                   "Captain O'Hagan: Try hiding. "
+  QUOTE_LIBRARY << "Ursula: You're not going to tell anybody about this?   \r" +
+                   "Foster: I already told my mom. "
 
 end

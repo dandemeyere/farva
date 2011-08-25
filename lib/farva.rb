@@ -3,7 +3,7 @@ class Farva
   require 'farva/trooper_farva'
   require 'farva/trooper_mac'
   require 'farva/trooper_foster'
-  TROOPERS = ["Trooper Farva", "Trooper Mac"]
+  TROOPERS = ["Trooper Farva", "Trooper Mac", "Trooper Foster"]
   
   def self.roll_call
     trooper = String.constantize(TROOPERS.shuffle.first.gsub(/ /, ""))
