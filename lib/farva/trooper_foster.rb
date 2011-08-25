@@ -54,7 +54,7 @@ class TrooperFoster
                    "[Foster turns, sees Ursula is 'holding him up']   \r" +
                    "Ursula: [still talking into the voice filter] You don't have these at your station? \r" +
                    "Foster: [grabs the voice filtrator, and speaks into it] I don't suppose you have a fresh pair of underwear I can borrow?   \r" +
-                   "Ursula: I'm not sure you could fit into my panties.  \r" +
+                   "Ursula: I'm not sure you could fit into my panties.  \r"
   QUOTE_LIBRARY << "Foster: [explaining his low number of citations issued] I can't make them speed. \r" +
                    "Captain O'Hagan: Try hiding. "
   QUOTE_LIBRARY << "Ursula: You're not going to tell anybody about this?   \r" +
